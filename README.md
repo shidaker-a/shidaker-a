@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @shidaker-a
+- I have aquired the LPI Linux Essentials Certificate as of Feb-2022
 - 👀 I’m interested in transistioning into Cyber Security
 - 🌱 I’m currently learning Compta A+
 - 💞️ I’m looking to collaborate on ...
