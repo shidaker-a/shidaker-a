@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @shidaker-a
-- I have aquired the LPI Linux Essentials Certificate as of Feb-2022
-- 👀 I’m interested in transistioning into Cyber Security
-- 🌱 I’m currently learning Compta A+
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I have aquired the LPI Linux Essentials, CompTIA A+ and ISC2 CC Certificates
+- 👀 I’m interested in transistioning into Healthcare Cybersecurity for medical devices
+- 🌱 I’m currently enrolled at Western Governors University in their Bachelors in Cybersecurity and Information Assurance Degree
+- I am progressing through the program well and am currently working on my Network+ certificate with an expected exam date of 4/29/24
+
 
 <!---
 shidaker-a/shidaker-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
